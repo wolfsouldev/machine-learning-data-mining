@@ -18,7 +18,7 @@ class AprioriStepByStep:
         """Crea un dataset simple para demostración paso a paso"""
         print("📝 Creando dataset simple para demostración...")
         
-        # Dataset pequeño y comprensible
+        # Dataset pequeño y lindo
         transactions = [
             ['Pan', 'Leche'],
             ['Pan', 'Mantequilla', 'Huevos'],
